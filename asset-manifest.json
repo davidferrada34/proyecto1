@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TU_REPOSITORIO/static/css/main.1713bade.css",
+    "main.js": "/TU_REPOSITORIO/static/js/main.306288b8.js",
+    "static/js/453.c5f31099.chunk.js": "/TU_REPOSITORIO/static/js/453.c5f31099.chunk.js",
+    "index.html": "/TU_REPOSITORIO/index.html",
+    "main.1713bade.css.map": "/TU_REPOSITORIO/static/css/main.1713bade.css.map",
+    "main.306288b8.js.map": "/TU_REPOSITORIO/static/js/main.306288b8.js.map",
+    "453.c5f31099.chunk.js.map": "/TU_REPOSITORIO/static/js/453.c5f31099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1713bade.css",
+    "static/js/main.306288b8.js"
+  ]
+}
